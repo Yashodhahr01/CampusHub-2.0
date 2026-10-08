@@ -4,280 +4,290 @@
       "id": "usr_student_demo",
       "name": "Varun Sharma",
       "email": "student@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.700Z"
+      "createdAt": "2026-10-08T17:28:43.361Z"
     },
     {
       "id": "usr_faculty_demo",
       "name": "Dr. Ananya Rao",
       "email": "faculty@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_admin_demo",
       "name": "Admin Chief",
       "email": "admin@campushub.demo",
-      "passwordHash": "$2b$10$lJbEnNrWkEa7nU8QYm1EF.QTnRy9bXbNN6/UYEWgtI1RwC7OxX1E.",
+      "passwordHash": "$2b$10$tKffNfRFvE6k9oiNXx/7ie9nSWpYJ6HO7KYnsdUstvBEpFlONL1/e",
       "role": "admin",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_1",
       "name": "Aarav Patel",
       "email": "student1@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_1",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_2",
       "name": "Diya Sengupta",
       "email": "student2@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_2",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_3",
       "name": "Rohan Mehta",
       "email": "student3@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_3",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_4",
       "name": "Sneha Kulkarni",
       "email": "student4@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_4",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_5",
       "name": "Aditya Verma",
       "email": "student5@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_5",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_6",
       "name": "Ananya Deshmukh",
       "email": "student6@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_6",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_7",
       "name": "Karan Nair",
       "email": "student7@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_7",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_8",
       "name": "Pooja Hegde",
       "email": "student8@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_8",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_9",
       "name": "Vikram Joshi",
       "email": "student9@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_9",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_10",
       "name": "Neha Reddy",
       "email": "student10@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_10",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_11",
       "name": "Siddharth Malhotra",
       "email": "student11@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_11",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_12",
       "name": "Ishita Bannerjee",
       "email": "student12@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_12",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_13",
       "name": "Rahul Kapoor",
       "email": "student13@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_13",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_14",
       "name": "Tanvi Singhal",
       "email": "student14@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_14",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_15",
       "name": "Manish Iyer",
       "email": "student15@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_15",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_16",
       "name": "Preeti Rathi",
       "email": "student16@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_16",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_17",
       "name": "Harsh Vardhan",
       "email": "student17@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_17",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_18",
       "name": "Kavya Swaminathan",
       "email": "student18@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_18",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_std_19",
       "name": "Rishabh Pant",
       "email": "student19@campushub.demo",
-      "passwordHash": "$2b$10$lHcuDVP9lFoUcWxowI6j1eHS39tKd7rH6P8V9ds17q7SodcuScR7m",
+      "passwordHash": "$2b$10$u/SSV75tTrjFRWlKaJliHeAKGvdQ2KnG5pbOc0VeJljDN9RAOrOeq",
       "role": "student",
       "avatar": "https://i.pravatar.cc/150?u=std_19",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_2",
       "name": "Prof. Rahul Kumar",
       "email": "rahul.kumar@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_3",
       "name": "Prof. Priya Sharma",
       "email": "priya.sharma@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_4",
       "name": "Dr. Rajesh Natarajan",
       "email": "rajesh.n@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_5",
       "name": "Prof. Meera Kulkarni",
       "email": "meera.k@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_6",
       "name": "Dr. Suresh Varma",
       "email": "suresh.v@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_7",
       "name": "Prof. Kavita Reddy",
       "email": "kavita.r@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_8",
       "name": "Dr. Amit Trivedi",
       "email": "amit.t@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_9",
       "name": "Prof. Sunita Pillai",
       "email": "sunita.p@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
     },
     {
       "id": "usr_fac_10",
       "name": "Dr. Vikram Malhotra",
       "email": "vikram.m@campushub.demo",
-      "passwordHash": "$2b$10$FGd7ddNMiK63ITD3ZKteEuiCEF1FzDnqoZAwhAiVeOhGhgavzrJ46",
+      "passwordHash": "$2b$10$Um/KopvDZ2.DbUML29Z/lOgrOEOiNSmJkd8Rs6NzjrBxo9fDrTrxO",
       "role": "faculty",
       "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&auto=format&fit=crop&q=80",
-      "createdAt": "2026-10-08T16:30:30.701Z"
+      "createdAt": "2026-10-08T17:28:43.362Z"
+    },
+    {
+      "id": "usr_1791480695300",
+      "createdAt": "2026-10-08T17:31:35.300Z",
+      "updatedAt": "2026-10-08T17:31:35.300Z",
+      "name": "H R Varun Kumar ",
+      "email": "varunhr@gmail.com",
+      "passwordHash": "$2b$10$fO9a8gzEVuz4HnSa8RWmYOpb/AQewtPqUCz1F72LbahaDlgXx909.",
+      "role": "student",
+      "avatar": "https://i.pravatar.cc/150?u=usr_1791480695300"
     }
   ],
   "students": [
@@ -723,6 +733,28 @@
       "gpa": 9.3,
       "phone": "+91 98765 10018",
       "bio": "Engineering student passionate about Blockchain and software development."
+    },
+    {
+      "id": "id_1791480695305_g2ee4p",
+      "createdAt": "2026-10-08T17:31:35.305Z",
+      "updatedAt": "2026-10-08T17:31:35.305Z",
+      "userId": "usr_1791480695300",
+      "name": "H R Varun Kumar ",
+      "email": "varunhr@gmail.com",
+      "usn": "1DS21CS308",
+      "department": "Computer Science & Engineering",
+      "semester": 6,
+      "section": "A",
+      "skills": [
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "interests": [
+        "Web Development",
+        "AI/ML"
+      ],
+      "gpa": 8.5
     }
   ],
   "faculty": [
